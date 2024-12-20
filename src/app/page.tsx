@@ -304,7 +304,7 @@ export default function Page() {
   );
 }
 
-// Add this to your global CSS file
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 const styles = `
 @keyframes slideIn {
   from {
